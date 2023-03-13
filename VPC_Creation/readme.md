@@ -1,11 +1,15 @@
 provider -->AWS -->AWS user -->AWS congigure -->
+
 resource 
 
 
-terraform init
-terraform valiadate
-terraform apply
-terraform destroy
+1.terraform init
+
+2.terraform valiadate
+
+3.terraform apply
+
+4.terraform destroy
 
 
 Terraform used the selected providers to generate the following execution plan.
