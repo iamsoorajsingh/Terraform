@@ -1,3 +1,13 @@
+provider -->AWS -->AWS user -->AWS congigure -->
+resource 
+
+
+terraform init
+terraform valiadate
+terraform apply
+terraform destroy
+
+
 Terraform used the selected providers to generate the following execution plan.
 Resource actions are indicated with the following symbols:
   + create
